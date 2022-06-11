@@ -1,0 +1,8 @@
+C:\curso\campeonatoFutebol\campeonatoFutebol\bin\Debug\campeonatoFutebol.exe.config
+C:\curso\campeonatoFutebol\campeonatoFutebol\bin\Debug\campeonatoFutebol.exe
+C:\curso\campeonatoFutebol\campeonatoFutebol\bin\Debug\campeonatoFutebol.pdb
+C:\curso\campeonatoFutebol\campeonatoFutebol\obj\Debug\campeonatoFutebol.csproj.AssemblyReference.cache
+C:\curso\campeonatoFutebol\campeonatoFutebol\obj\Debug\campeonatoFutebol.csproj.SuggestedBindingRedirects.cache
+C:\curso\campeonatoFutebol\campeonatoFutebol\obj\Debug\campeonatoFutebol.csproj.CoreCompileInputs.cache
+C:\curso\campeonatoFutebol\campeonatoFutebol\obj\Debug\campeonatoFutebol.exe
+C:\curso\campeonatoFutebol\campeonatoFutebol\obj\Debug\campeonatoFutebol.pdb
